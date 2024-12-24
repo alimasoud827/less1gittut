@@ -8,5 +8,10 @@ const tesla = {
     model: "Model 3"
 }
 
+const nissan = {
+    branch: "nissan",
+    model: "Model 2"
+}
+
 //module.exports = ford;
 exports.data = { ford, tesla };
