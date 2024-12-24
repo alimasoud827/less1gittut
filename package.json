@@ -1,0 +1,23 @@
+{
+  "name": "2nd-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon argument.js"
+  },
+  "author": "Ali Masoud",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "axios": "^1.7.7",
+    "nodemon": "^3.1.7"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "dotenv": "^16.4.5",
+    "minimist": "^1.2.8",
+    "progress": "^2.0.3",
+    "prompt-sync": "^4.2.0"
+  }
+}
